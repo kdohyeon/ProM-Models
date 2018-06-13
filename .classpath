@@ -31,5 +31,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/ProM-Contexts"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ProM-Framework"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ProM-Plugins"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/prom/lib/PetriNets-latest.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

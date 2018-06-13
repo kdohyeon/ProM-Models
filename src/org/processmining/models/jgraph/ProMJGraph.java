@@ -19,7 +19,6 @@ import java.util.Vector;
 import javax.swing.JComponent;
 import javax.swing.ToolTipManager;
 
-import org.deckfour.uitopia.api.event.UpdateListener;
 import org.jgraph.JGraph;
 import org.jgraph.event.GraphLayoutCacheEvent;
 import org.jgraph.event.GraphLayoutCacheListener;
